@@ -1,0 +1,1796 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zerif Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-03 04:12+0000\n"
+"PO-Revision-Date: 2016-11-03 04:53+0000\n"
+"Last-Translator: admin <info@techfest.vn>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: sections\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Get the one page template"
+msgstr ""
+
+#: functions.php:97
+msgid ""
+"If you just installed Zerif Lite, and are not able to see the one page "
+"template, you need to go to Settings -> Reading , Front page displays and "
+"select \"Your latest posts\"."
+msgstr ""
+
+#: functions.php:102
+msgid "Install Pirate Forms"
+msgstr ""
+
+#: functions.php:103
+msgid ""
+"In the next updates, Zerif Lite's default contact form will be removed. "
+"Please make sure you install the Pirate Forms plugin to keep your site "
+"updated, and experience a smooth transition to the latest version."
+msgstr ""
+
+#: functions.php:109
+msgid "Check the contact form after installing Pirate Forms"
+msgstr ""
+
+#: functions.php:110
+msgid ""
+"After installing the Pirate Forms plugin, please make sure you check your "
+"frontpage contact form is working fine. Also, if you use Zerif Lite in other "
+"language(s) please make sure the translation is ok. If not, please translate "
+"the contact form again."
+msgstr ""
+
+#: functions.php:170
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:179 inc/customizer.php:960 inc/customizer.php:1251
+msgid "About us section"
+msgstr ""
+
+#: functions.php:190
+msgid "Footer area %d"
+msgstr ""
+
+#: functions.php:209
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:210
+msgctxt "Homemade font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:215
+msgctxt "Monserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:354
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:355
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:356
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:357
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:358
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:359
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:360
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:361
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:362
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:363
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:364
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:365
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:366
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:367
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:368
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:369
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:370
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:399
+msgid "Default title"
+msgstr ""
+
+#: functions.php:426
+msgid "Our focus section widgets"
+msgstr ""
+
+#: functions.php:430
+msgid "Testimonials section widgets"
+msgstr ""
+
+#: functions.php:434
+msgid "Our team section widgets"
+msgstr ""
+
+#: functions.php:613
+msgid "Zerif - Our focus widget"
+msgstr ""
+
+#: functions.php:705 inc/customizer.php:577 inc/customizer.php:726 
+#: inc/customizer.php:885 inc/customizer.php:932 inc/customizer.php:996 
+#: inc/customizer.php:1276 inc/customizer.php:1501 inc/customizer.php:1547 
+#: inc/customizer.php:1617 inc/customizer.php:1675
+msgid "Title"
+msgstr ""
+
+#: functions.php:709 functions.php:869 inc/customizer.php:1034 
+#: inc/customizer.php:1313 inc/customizer.php:1766 inc/customizer.php:1811
+msgid "Text"
+msgstr ""
+
+#: functions.php:713 functions.php:969
+msgid "Link"
+msgstr ""
+
+#: functions.php:717 functions.php:873 functions.php:973 functions.php:1190
+msgid "Image"
+msgstr ""
+
+#: functions.php:720 functions.php:810 functions.php:821 functions.php:877 
+#: functions.php:976 functions.php:1031 functions.php:1043 functions.php:1196
+msgid "Uploaded image"
+msgstr ""
+
+#: functions.php:726 functions.php:883 functions.php:982 functions.php:1203
+msgid "Upload Image"
+msgstr ""
+
+#: functions.php:756
+msgid "Zerif - Testimonial widget"
+msgstr ""
+
+#: functions.php:857
+msgid "Author"
+msgstr ""
+
+#: functions.php:861
+msgid "Author link"
+msgstr ""
+
+#: functions.php:865
+msgid "Author details"
+msgstr ""
+
+#: functions.php:915
+msgid "Zerif - Clients widget"
+msgstr ""
+
+#: functions.php:931 functions.php:938
+msgid "Client"
+msgstr ""
+
+#: functions.php:1011
+msgid "Zerif - Team member widget"
+msgstr ""
+
+#: functions.php:1150
+msgid "Name"
+msgstr ""
+
+#: functions.php:1154
+msgid "Position"
+msgstr ""
+
+#: functions.php:1158
+msgid "Description"
+msgstr ""
+
+#: functions.php:1165 inc/customizer.php:196 inc/customizer.php:411
+msgid "Facebook link"
+msgstr ""
+
+#: functions.php:1170 inc/customizer.php:208 inc/customizer.php:421
+msgid "Twitter link"
+msgstr ""
+
+#: functions.php:1174 inc/customizer.php:231 inc/customizer.php:441
+msgid "Behance link"
+msgstr ""
+
+#: functions.php:1179
+msgid "Dribble link"
+msgstr ""
+
+#: functions.php:1183 inc/customizer.php:219 inc/customizer.php:431
+msgid "Linkedin link"
+msgstr ""
+
+#: functions.php:1187
+msgid "Open links in new window?"
+msgstr ""
+
+#: comments.php:23
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:64
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:66
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:23 content-page-no-title.php:14
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-page.php:29 content-large.php:73 content.php:70 
+#: content-page-no-title.php:20 content-single.php:21
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:39 content-large.php:147 content.php:125 
+#: content-page-no-title.php:30 content-single.php:84
+msgid "Edit"
+msgstr ""
+
+#: content-large.php:66 content.php:63 sections/latest_news.php:81 
+#: sections/latest_news.php:116
+msgid "[...]"
+msgstr ""
+
+#: content-large.php:66 content.php:63 sections/latest_news.php:81 
+#: sections/latest_news.php:116
+msgid "about "
+msgstr ""
+
+#: content-large.php:106 content-large.php:124 content.php:85 content.php:103 
+#: content-single.php:34 content-single.php:38
+msgid ", "
+msgstr ""
+
+#: content-large.php:114 content.php:93
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-large.php:132 content.php:111
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content-large.php:143 content.php:121
+msgid "Leave a comment"
+msgstr ""
+
+#: content-large.php:143 content.php:121
+msgid "1 Comment"
+msgstr ""
+
+#: content-large.php:143 content.php:121
+msgid "% Comments"
+msgstr ""
+
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr ""
+
+#: front-page.php:49
+msgid "* Please enter your name."
+msgstr ""
+
+#: front-page.php:63
+msgid "* Please enter your email address."
+msgstr ""
+
+#: front-page.php:69
+msgid "* You entered an invalid email address."
+msgstr ""
+
+#: front-page.php:83
+msgid "* Please enter a subject."
+msgstr ""
+
+#: front-page.php:97
+msgid "* Please enter a message."
+msgstr ""
+
+#: front-page.php:277 inc/customizer.php:1956
+msgid "Get in touch"
+msgstr ""
+
+#: front-page.php:310
+msgid "Thanks, your email was sent successfully!"
+msgstr ""
+
+#: front-page.php:314
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: front-page.php:351 front-page.php:352
+msgid "Your Name"
+msgstr ""
+
+#: front-page.php:356 front-page.php:357
+msgid "Your Email"
+msgstr ""
+
+#: front-page.php:361 front-page.php:362
+msgid "Subject"
+msgstr ""
+
+#: front-page.php:366 front-page.php:367
+msgid "Your Message"
+msgstr ""
+
+#: front-page.php:371 inc/customizer.php:1992
+msgid "Send Message"
+msgstr ""
+
+#. Name of the template
+msgid "Blog template with large images"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: footer.php:23 inc/customizer.php:280 inc/customizer.php:480
+msgid "Company address"
+msgstr ""
+
+#: sidebar.php:23 inc/template-tags.php:311
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:32
+msgid "Meta"
+msgstr ""
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: about_us.php:33 sections/about_us.php:33 inc/customizer.php:1017 
+#: inc/customizer.php:1297
+msgid "Everything you see here is responsive and mobile-friendly."
+msgstr ""
+
+#: about_us.php:36 sections/about_us.php:36 inc/customizer.php:1048 
+#: inc/customizer.php:1321
+msgid "YOUR SKILL #1"
+msgstr ""
+
+#: about_us.php:39 sections/about_us.php:39 inc/customizer.php:1090 
+#: inc/customizer.php:1357
+msgid "YOUR SKILL #2"
+msgstr ""
+
+#: about_us.php:42 sections/about_us.php:42 inc/customizer.php:1132 
+#: inc/customizer.php:1392
+msgid "YOUR SKILL #3"
+msgstr ""
+
+#: about_us.php:45 sections/about_us.php:45 inc/customizer.php:1174 
+#: inc/customizer.php:1428
+msgid "YOUR SKILL #4"
+msgstr ""
+
+#: about_us.php:321 sections/about_us.php:328
+msgid "OUR HAPPY CLIENTS"
+msgstr ""
+
+#. Name of the template
+msgid "Full width with no title template"
+msgstr ""
+
+#: header.php:83
+msgid "Toggle navigation"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#: content-single.php:46
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">"
+"permalink</a>."
+msgstr ""
+
+#: content-single.php:50
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:60
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:64
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: sections/logos.php:2
+msgctxt "Khởi nghiệp / Triển lãm"
+msgid "Startups/Exhibitors"
+msgstr ""
+
+#: sections/latest_news.php:145
+msgid "Previous"
+msgstr ""
+
+#: sections/latest_news.php:149
+msgid "Next"
+msgstr ""
+
+#: sections/about_us.php:48 inc/customizer.php:1215
+msgid "YOUR SKILL #5"
+msgstr ""
+
+#: sections/big_title.php:27 inc/customizer.php:585 inc/customizer.php:734
+msgid "Features"
+msgstr ""
+
+#: sections/big_title.php:31 inc/customizer.php:610 inc/customizer.php:759
+msgid "What's inside"
+msgstr ""
+
+#: inc/extras.php:89
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid ""
+"Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> for full control over the frontpage "
+"SECTIONS ORDER and the COLOR SCHEME!"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid ""
+"Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> to add a nice looking background video!"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid ""
+"Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> to add a google maps section !"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid ""
+"Check out the <a href=\"http://themeisle.com/themes/zerif-pro-one-page-"
+"wordpress-theme/\">PRO version</a> to add a pricing section !"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Sections order and Colors"
+msgstr ""
+
+#: inc/customizer.php:90 inc/customizer.php:340
+msgid "General options"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:117 inc/customizer.php:351
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:130 inc/customizer.php:364
+msgid "Disable preloader?"
+msgstr ""
+
+#: inc/customizer.php:142 inc/customizer.php:376
+msgid "Disable smooth scroll?"
+msgstr ""
+
+#: inc/customizer.php:154 inc/customizer.php:388
+msgid "Enable accessibility?"
+msgstr ""
+
+#: inc/customizer.php:166 inc/customizer.php:400
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Footer Social Icons"
+msgstr ""
+
+#: inc/customizer.php:243 inc/customizer.php:451
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/customizer.php:254 inc/customizer.php:461
+msgid "Instagram link"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Footer Content"
+msgstr ""
+
+#: inc/customizer.php:272 inc/customizer.php:472
+msgid "Address section - icon"
+msgstr ""
+
+#: inc/customizer.php:284 inc/customizer.php:484
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:296 inc/customizer.php:495
+msgid "Email section - icon"
+msgstr ""
+
+#: inc/customizer.php:308 inc/customizer.php:507
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:320 inc/customizer.php:519
+msgid "Phone number section - icon"
+msgstr ""
+
+#: inc/customizer.php:332 inc/customizer.php:531
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Zerif theme general options"
+msgstr ""
+
+#: inc/customizer.php:547 inc/customizer.php:701
+msgid "Big title section"
+msgstr ""
+
+#: inc/customizer.php:551 inc/customizer.php:983
+msgid "Main content"
+msgstr ""
+
+#: inc/customizer.php:564 inc/customizer.php:713
+msgid "Hide big title section?"
+msgstr ""
+
+#: inc/customizer.php:572 inc/customizer.php:721
+msgid "ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG"
+msgstr ""
+
+#: inc/customizer.php:590 inc/customizer.php:739
+msgid "Red button label"
+msgstr ""
+
+#: inc/customizer.php:602 inc/customizer.php:751
+msgid "Red button link"
+msgstr ""
+
+#: inc/customizer.php:615 inc/customizer.php:764
+msgid "Green button label"
+msgstr ""
+
+#: inc/customizer.php:627 inc/customizer.php:776
+msgid "Green button link"
+msgstr ""
+
+#: inc/customizer.php:637 inc/customizer.php:785 
+#: inc/admin/welcome-screen/sections/free_pro.php:21
+msgid "Parallax effect"
+msgstr ""
+
+#: inc/customizer.php:649 inc/customizer.php:796
+msgid "Use parallax effect?"
+msgstr ""
+
+#: inc/customizer.php:661 inc/customizer.php:808
+msgid "Image 1"
+msgstr ""
+
+#: inc/customizer.php:674 inc/customizer.php:821
+msgid "Image 2"
+msgstr ""
+
+#: inc/customizer.php:685 inc/customizer.php:832
+msgid "Video background"
+msgstr ""
+
+#: inc/customizer.php:855 inc/customizer.php:906
+msgid "Our focus section"
+msgstr ""
+
+#: inc/customizer.php:859 inc/customizer.php:1475
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:872 inc/customizer.php:919
+msgid "Hide our focus section?"
+msgstr ""
+
+#: inc/customizer.php:880 inc/customizer.php:927 inc/template-tags.php:355
+msgid "FEATURES"
+msgstr ""
+
+#: inc/customizer.php:893 inc/customizer.php:940 inc/template-tags.php:366
+msgid "What makes this single-page WordPress theme unique."
+msgstr ""
+
+#: inc/customizer.php:898 inc/customizer.php:945
+msgid "Our focus subtitle"
+msgstr ""
+
+#: inc/customizer.php:908
+msgid ""
+"The main content of this section is customizable in: Dashboard -> Appearance "
+"-> Widgets -> Our focus section. There you must add the \"Zerif - Our focus "
+"widget\""
+msgstr ""
+
+#: inc/customizer.php:964
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer.php:977 inc/customizer.php:1263
+msgid "Hide about us section?"
+msgstr ""
+
+#: inc/customizer.php:991 inc/customizer.php:1271 inc/template-tags.php:477
+msgid "About"
+msgstr ""
+
+#: inc/customizer.php:1004 inc/customizer.php:1284 inc/template-tags.php:487
+msgid "Use this section to showcase important details about your business."
+msgstr ""
+
+#: inc/customizer.php:1009 inc/customizer.php:1289
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer.php:1021 inc/customizer.php:1301
+msgid "Big left side title"
+msgstr ""
+
+#: inc/customizer.php:1029 inc/customizer.php:1309
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa "
+"enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet "
+"nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit "
+"amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at "
+"est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet "
+"pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque "
+"quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, "
+"nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla "
+"sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus "
+"vehicula augue, a lobortis dui orci et est."
+msgstr ""
+
+#: inc/customizer.php:1040
+msgid "Feature no#1"
+msgstr ""
+
+#: inc/customizer.php:1053 inc/customizer.php:1326
+msgid "Feature no1 title"
+msgstr ""
+
+#: inc/customizer.php:1064 inc/customizer.php:1337
+msgid "Feature no1 text"
+msgstr ""
+
+#: inc/customizer.php:1076 inc/customizer.php:1349
+msgid "Feature no1 percentage"
+msgstr ""
+
+#: inc/customizer.php:1082
+msgid "Feature no#2"
+msgstr ""
+
+#: inc/customizer.php:1095 inc/customizer.php:1362
+msgid "Feature no2 title"
+msgstr ""
+
+#: inc/customizer.php:1106 inc/customizer.php:1373
+msgid "Feature no2 text"
+msgstr ""
+
+#: inc/customizer.php:1118 inc/customizer.php:1384
+msgid "Feature no2 percentage"
+msgstr ""
+
+#: inc/customizer.php:1124
+msgid "Feature no#3"
+msgstr ""
+
+#: inc/customizer.php:1137 inc/customizer.php:1397
+msgid "Feature no3 title"
+msgstr ""
+
+#: inc/customizer.php:1148 inc/customizer.php:1408
+msgid "Feature no3 text"
+msgstr ""
+
+#: inc/customizer.php:1160 inc/customizer.php:1420
+msgid "Feature no3 percentage"
+msgstr ""
+
+#: inc/customizer.php:1166
+msgid "Feature no#4"
+msgstr ""
+
+#: inc/customizer.php:1179 inc/customizer.php:1433
+msgid "Feature no4 title"
+msgstr ""
+
+#: inc/customizer.php:1190 inc/customizer.php:1444
+msgid "Feature no4 text"
+msgstr ""
+
+#: inc/customizer.php:1202 inc/customizer.php:1456
+msgid "Feature no4 percentage"
+msgstr ""
+
+#: inc/customizer.php:1208
+msgid "Feature no#5"
+msgstr ""
+
+#: inc/customizer.php:1220
+msgid "Feature no5 title"
+msgstr ""
+
+#: inc/customizer.php:1231
+msgid "Feature no5 text"
+msgstr ""
+
+#: inc/customizer.php:1243
+msgid "Feature no5 percentage"
+msgstr ""
+
+#: inc/customizer.php:1471 inc/customizer.php:1521
+msgid "Our team section"
+msgstr ""
+
+#: inc/customizer.php:1488 inc/customizer.php:1534
+msgid "Hide our team section?"
+msgstr ""
+
+#: inc/customizer.php:1496 inc/customizer.php:1542 inc/template-tags.php:377
+msgid "YOUR TEAM"
+msgstr ""
+
+#: inc/customizer.php:1509 inc/customizer.php:1555 inc/template-tags.php:388
+msgid ""
+"Prove that you have real people working for you, with some nice looking "
+"profile pictures and links to social media."
+msgstr ""
+
+#: inc/customizer.php:1513 inc/customizer.php:1560
+msgid "Our team subtitle"
+msgstr ""
+
+#: inc/customizer.php:1523
+msgid ""
+"The main content of this section is customizable in: Dashboard -> Appearance "
+"-> Widgets -> Our team section. There you must add the \"Zerif - Team member "
+"widget\""
+msgstr ""
+
+#: inc/customizer.php:1575 inc/customizer.php:1579 inc/customizer.php:1637
+msgid "Testimonials section"
+msgstr ""
+
+#: inc/customizer.php:1592 inc/customizer.php:1650
+msgid "Hide testimonials section?"
+msgstr ""
+
+#: inc/customizer.php:1604 inc/customizer.php:1662
+msgid "Use pinterest layout?"
+msgstr ""
+
+#: inc/customizer.php:1612 inc/customizer.php:1670 inc/template-tags.php:403
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer.php:1629 inc/customizer.php:1687
+msgid "Testimonials subtitle"
+msgstr ""
+
+#: inc/customizer.php:1639
+msgid ""
+"The main content of this section is customizable in: Dashboard -> Appearance "
+"-> Widgets -> Testimonials section. There you must add the \"Zerif - "
+"Testimonial widget\""
+msgstr ""
+
+#: inc/customizer.php:1698
+msgid "Latest News section"
+msgstr ""
+
+#: inc/customizer.php:1710
+msgid "Hide latest news section?"
+msgstr ""
+
+#: inc/customizer.php:1722
+msgid "Latest News title"
+msgstr ""
+
+#: inc/customizer.php:1734
+msgid "Latest News subtitle"
+msgstr ""
+
+#: inc/customizer.php:1747 inc/customizer.php:1842
+msgid "Ribbon sections"
+msgstr ""
+
+#: inc/customizer.php:1751
+msgid "BottomButton Ribbon"
+msgstr ""
+
+#: inc/customizer.php:1778 inc/customizer.php:1823 inc/customizer.php:1997
+msgid "Button label"
+msgstr ""
+
+#: inc/customizer.php:1790 inc/customizer.php:1835
+msgid "Button link"
+msgstr ""
+
+#: inc/customizer.php:1796
+msgid "RightButton Ribbon"
+msgstr ""
+
+#: inc/customizer.php:1855
+msgid "Ribbon section with bottom button - Text"
+msgstr ""
+
+#: inc/customizer.php:1867
+msgid "Ribbon section with bottom button - Button label"
+msgstr ""
+
+#: inc/customizer.php:1879
+msgid "Ribbon section with bottom button - Button link"
+msgstr ""
+
+#: inc/customizer.php:1893
+msgid "Ribbon section with button in the right side - Text"
+msgstr ""
+
+#: inc/customizer.php:1905
+msgid "Ribbon section with button in the right side - Button label"
+msgstr ""
+
+#: inc/customizer.php:1917
+msgid "Ribbon section with button in the right side - Button link"
+msgstr ""
+
+#: inc/customizer.php:1931
+msgid "For more advanced settings please go to Settings -> Pirate Forms"
+msgstr ""
+
+#: inc/customizer.php:1935
+msgid "Contact us section"
+msgstr ""
+
+#: inc/customizer.php:1948
+msgid "Hide contact us section?"
+msgstr ""
+
+#: inc/customizer.php:1961
+msgid "Contact us section title"
+msgstr ""
+
+#: inc/customizer.php:1973
+msgid "Contact us section subtitle"
+msgstr ""
+
+#: inc/customizer.php:1984
+msgid "Email address"
+msgstr ""
+
+#: inc/customizer.php:2009
+msgid "Hide reCaptcha?"
+msgstr ""
+
+#: inc/customizer.php:2021
+msgid "Site key"
+msgstr ""
+
+#: inc/customizer.php:2022
+msgid "Create an account here"
+msgstr ""
+
+#: inc/customizer.php:2033
+msgid "Secret key"
+msgstr ""
+
+#: inc/customizer.php:2043
+msgid "Google maps section"
+msgstr ""
+
+#: inc/customizer.php:2060
+msgid "Pricing section"
+msgstr ""
+
+#: inc/customizer.php:2098
+msgid "View Documentation"
+msgstr ""
+
+#: inc/customizer.php:2099
+msgid "View PRO version"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:227
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/template-tags.php:233
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: inc/template-tags.php:259
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:263
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:267
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:267
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:271
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:271
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:275
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:279
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:283
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:287
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:291
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:295
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:299
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:303
+msgid "Audios"
+msgstr ""
+
+#: inc/template-tags.php:307
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:441
+msgid "Latest news"
+msgstr ""
+
+#: inc/template-tags.php:515
+msgid "Skip to content"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:66
+msgid ""
+"Welcome! Thank you for choosing Zerif Lite! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:67
+msgid "Get started with Zerif Lite"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:105 
+#: inc/admin/welcome-screen/sections/actions-required.php:60
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:142
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:210 
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+msgid "Getting started"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:211
+msgid "Actions required"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:212
+msgid "Child themes"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:213
+msgid "Contribute"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:214
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:215
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:22
+msgid "Smooth, catchy and easy scrolling experience."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:29
+msgid "Mobile friendly"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:30
+msgid "Responsive layout. Works on every device."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:37
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:38
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:45
+msgid "Frontpage sections"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:46
+msgid ""
+"Big title, Our focus, About us, Our team, Testimonials, Ribbons, Latest news,"
+" Contat us"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:53
+msgid "Background image"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:54
+msgid "You can use any background image you want."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:61
+msgid "Unlimited color option"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:62
+msgid "You can change the colors of each section. You have unlimited options."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:69
+msgid "Google map section"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:70
+msgid "Embed your current location to your website by using a Google map."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:77
+msgid "Portfolio"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:78
+msgid "Showcase your best projects in the portfolio section."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:85
+msgid "Sections order"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:86
+msgid "Arrange the sections by your priorities."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:93
+msgid "Background slider/video"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:94
+msgid ""
+"Apart from static images, you can use videos or sliders on the background."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:101
+msgid "Support"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:102
+msgid ""
+"You will benefit of our full support for any issues you have with the theme."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:109
+msgid "Packages/Subscribe sections"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:110
+msgid ""
+"Add pricing tables for your products and use newsletter forms to attract the "
+"clients."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:117
+msgid "Change labels for the Contact Us section"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:118
+msgid "Write an original text in each Contact us section field."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:125
+msgid "No credit footer link"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:126
+msgid "Remove \"Zerif Lite powered by WordPress\" copyright from the footer."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/free_pro.php:134
+msgid "Get Zerif PRO now!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:14
+msgid "Get a whole new look for your site"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:16
+msgid ""
+"Below you will find a selection of Zerif Lite child themes that will totally "
+"transform the look of your site."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:26
+msgid "ZBlackBeard Child Theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:28
+msgid "ZBlackBeard"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:35
+msgid "Get now"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:36 
+#: inc/admin/welcome-screen/sections/child-themes.php:63 
+#: inc/admin/welcome-screen/sections/child-themes.php:90 
+#: inc/admin/welcome-screen/sections/child-themes.php:119 
+#: inc/admin/welcome-screen/sections/child-themes.php:146
+msgid "Live Preview"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:41
+msgid "Zblackbeard - Current theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:42 
+#: inc/admin/welcome-screen/sections/child-themes.php:69 
+#: inc/admin/welcome-screen/sections/child-themes.php:96 
+#: inc/admin/welcome-screen/sections/child-themes.php:125 
+#: inc/admin/welcome-screen/sections/child-themes.php:152
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:53
+msgid "OnePirate Child Theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:55
+msgid "OnePirate"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:62 
+#: inc/admin/welcome-screen/sections/child-themes.php:89 
+#: inc/admin/welcome-screen/sections/child-themes.php:145
+msgid "Install %s now"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:68
+msgid "OnePirate - Current theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:80
+msgid "Zifer Child Theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:82
+msgid "Zifer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:95
+msgid "Zifer Child - Current theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:109 
+#: inc/admin/welcome-screen/sections/child-themes.php:111
+msgid "ResponsiveBoat"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:118
+msgid "Get %s now"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:124
+msgid "ResponsiveBoat - Current theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:136
+msgid "Zerius Child Theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:138
+msgid "Zerius"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/child-themes.php:151
+msgid "Zerius - Current theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:14
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "GitHub is the place to go!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "Zerif Lite on GitHub"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:25
+msgid ""
+"Are you a polyglot? Want to translate Zerif Lite into your own language?"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Get involved at WordPress.org."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:30 
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+msgid "Translate Zerif Lite"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:36
+msgid "Are you enjoying Zerif Lite?"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Our most popular free one page WordPress theme, Zerif Lite!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid ""
+"We want to make sure you have the best experience using Zerif Lite and that "
+"is why we gathered here all the necessary informations for you. We hope you "
+"will enjoy using Zerif Lite, as much as we enjoy creating great products."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Customize everything in a single place."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "Create a child theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+msgid ""
+"If you want to make changes to the theme's files, those changes are likely "
+"to be overwritten when you next update the theme. In order to prevent that "
+"from happening, you need to create a child theme. For this, please follow "
+"the documentation below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:44 
+#: inc/admin/welcome-screen/sections/getting-started.php:50 
+#: inc/admin/welcome-screen/sections/getting-started.php:56 
+#: inc/admin/welcome-screen/sections/getting-started.php:62 
+#: inc/admin/welcome-screen/sections/getting-started.php:68 
+#: inc/admin/welcome-screen/sections/getting-started.php:74 
+#: inc/admin/welcome-screen/sections/getting-started.php:80 
+#: inc/admin/welcome-screen/sections/getting-started.php:88 
+#: inc/admin/welcome-screen/sections/getting-started.php:94 
+#: inc/admin/welcome-screen/sections/getting-started.php:100 
+#: inc/admin/welcome-screen/sections/getting-started.php:106 
+#: inc/admin/welcome-screen/sections/getting-started.php:112 
+#: inc/admin/welcome-screen/sections/getting-started.php:118
+msgid "View how to do this"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:49
+msgid ""
+"In the below documentation you will find an easy way to build a great "
+"looking landing page using a drag-and-drop content builder plugin."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+msgid ""
+"In the below documentation you will find an easy way to translate Zerif Lite "
+"into your native language or any other language you need for you site."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:60
+msgid "Change dimensions for footer social icons"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:61
+msgid ""
+"In the below documentation you will find an easy way to change the default "
+"dimensions for you social icons."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:66
+msgid "Turn off the animations"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+msgid ""
+"You can turn off the animation effects you see when Zerif Lite loads a "
+"section in an easy way with just few changes. Check the documentation below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+msgid "Add a search bar in the top menu"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:73
+msgid ""
+"Find out how to add a search bar in the top menu bar, in an easy way be "
+"following the link below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:78
+msgid "Slider in big title section"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:79
+msgid ""
+"If you are in the position where you want to change the default appearance "
+"of the big title section, you may want to replace it with a nice looking "
+"slider. This can be accomplished by following the documention below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "Speed up your site"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:87
+msgid ""
+"If you find yourself in the situation where everything on your site is "
+"running very slow, you might consider having a look at the below "
+"documentation where you will find the most common issues causing this and "
+"possible solutions for each of the issues."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:92
+msgid "Link Menu to sections"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:93
+msgid ""
+"Linking the frontpage sections with the top menu is very simple, all you "
+"need to do is assign section anchors to the menu. In the below documentation "
+"you will find a nice tutorial about this."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:98
+msgid "Change anchors"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:99
+msgid ""
+"To better suit your site's needs, you can change each section's anchor to "
+"what you want. The entire process is described below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:104
+msgid "Change the page template"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:105
+msgid ""
+"Zerif Lite has three page templates available, two for the blog and one for "
+"full width pages. To make sure you take full advantage of those page "
+"templates, make sure you read the documentation."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:110
+msgid "Remove the opacity"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:111
+msgid ""
+"You don't like the way Zerif Lite looks with its background opacity? No "
+"problem. Just remove it using the steps below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:116
+msgid "Configure the portfolio"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:117
+msgid ""
+"Set up your portfolio section in an easy way be following the link below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:122
+msgid ""
+"30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You a "
+"Better Blogger"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:123
+msgid ""
+" At the address below you will find a cool set of original WordPress plugins "
+"that can give you great benefits despite being a little lesser known out "
+"there."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:124
+msgid "Read more"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:134
+msgid "View full documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:135
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use Zerif Lite."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:136
+msgid "Read full documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:143
+msgid "Recommended plugins"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:149
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:150
+msgid ""
+"Build responsive page layouts using the widgets you know and love using this "
+"simple drag and drop page builder."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:154 
+#: inc/admin/welcome-screen/sections/getting-started.php:175 
+#: inc/admin/welcome-screen/sections/getting-started.php:196 
+#: inc/admin/welcome-screen/sections/getting-started.php:215 
+#: inc/admin/welcome-screen/sections/getting-started.php:237 
+#: inc/admin/welcome-screen/sections/getting-started.php:257 
+#: inc/admin/welcome-screen/sections/getting-started.php:277 
+#: inc/admin/welcome-screen/sections/getting-started.php:296
+msgid "Already activated"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:160
+msgid "Install Page Builder by SiteOrigin"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:170
+msgid "WP Product Review"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:171
+msgid ""
+"Easily turn your basic posts into in-depth reviews with ratings, pros and "
+"cons, affiliate links, rich snippets and user reviews."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:181
+msgid "Install WP Product Review"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:191
+msgid "Custom Login Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:192
+msgid ""
+"Login Customizer plugin allows you to easily customize your login page "
+"straight from your WordPress Customizer! You can preview your changes before "
+"you save them!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:202
+msgid "Install Custom Login Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:221 
+#: inc/admin/welcome-screen/sections/getting-started.php:302
+msgid "Install"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:232
+msgid "Visualizer: Charts and Graphs"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:233
+msgid ""
+"A simple, easy to use and quite powerful chart tool to create, manage and "
+"embed interactive charts into your WordPress posts and pages."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:243
+msgid "Install Visualizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:252
+msgid "Easy Content Types"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:253
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:263
+msgid "Download Easy Content Types"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:272
+msgid "Revive Old Post"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:273
+msgid ""
+"A plugin to share about your old posts on twitter, facebook, linkedin to get "
+"more hits for them and keep them alive."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:283
+msgid "Install Revive Old Post"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with Zerif Lite's latest news"
+msgstr ""
+
+#. Name of the theme
+msgid "Zerif Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Zerif LITE is a free one page Wordpress theme. It's perfect for web agency "
+"business,corporate business,personal and parallax business portfolio, "
+"photography sites and freelancer.Is built on BootStrap with parallax support,"
+" is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce "
+"(WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with "
+"parallax, full screen image is one of the best business themes."
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeisle.com/themes/zerif-lite/"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themeisle.com"
+msgstr ""
+
+msgid "New message"
+msgstr ""

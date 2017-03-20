@@ -1,0 +1,18 @@
+[25-Sep-2016 19:21:28 UTC] PHP Warning:  require_once(widget_spider_calendar.php): failed to open stream: No such file or directory in /home/tecbab2a/public_html/wp-content/plugins/spider-event-calendar/calendar.php on line 27
+[25-Sep-2016 19:21:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'widget_spider_calendar.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tecbab2a/public_html/wp-content/plugins/spider-event-calendar/calendar.php on line 27
+[25-Sep-2016 19:21:28 UTC] PHP Warning:  require_once(widget_spider_calendar.php): failed to open stream: No such file or directory in /home/tecbab2a/public_html/wp-content/plugins/spider-event-calendar/calendar.php on line 27
+[25-Sep-2016 19:21:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'widget_spider_calendar.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tecbab2a/public_html/wp-content/plugins/spider-event-calendar/calendar.php on line 27
+[02-Nov-2016 04:19:26 UTC] PHP Fatal error:  Out of memory (allocated 3670016) (tried to allocate 196608 bytes) in /home/tecbab2a/public_html/wp-content/plugins/spider-event-calendar/spidercalendar_upcoming_events_widget.php on line 728
+[07-Nov-2016 04:07:03 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 04:07:10 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 04:09:03 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 04:10:22 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 07:52:22 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 07:54:02 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 07:55:53 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 08:05:08 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 08:27:06 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 09:11:13 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 09:11:43 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 09:12:18 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0
+[07-Nov-2016 09:33:07 UTC] PHP Warning:  Unknown: POST data can't be buffered; all data discarded in Unknown on line 0

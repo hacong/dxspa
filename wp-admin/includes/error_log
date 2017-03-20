@@ -1,0 +1,2 @@
+[25-Aug-2016 04:12:03 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/tecbab2a/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[01-Jan-2017 02:21:59 UTC] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/tecbab2a/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

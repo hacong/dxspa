@@ -1,0 +1,2 @@
+[06-Jan-2017 13:41:23 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/tecbab2a/public_html/wp-includes/registration-functions.php on line 7
+[06-Jan-2017 13:41:24 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/tecbab2a/public_html/wp-includes/registration-functions.php on line 7

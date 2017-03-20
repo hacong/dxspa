@@ -1,0 +1,9 @@
+[03-Aug-2016 04:56:35 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/functions.php on line 157
+[06-Aug-2016 12:08:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/functions.php on line 157
+[06-Aug-2016 12:39:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/functions.php on line 157
+[07-Aug-2016 17:50:13 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/header.php on line 8
+[07-Aug-2016 17:50:15 UTC] PHP Fatal error:  Call to undefined function zerif_before_footer_trigger() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/footer.php on line 11
+[07-Aug-2016 17:50:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/404.php on line 5
+[10-Aug-2016 13:29:12 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/functions.php on line 157
+[11-Aug-2016 01:16:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/functions.php on line 157
+[25-Oct-2016 00:09:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/tecbab2a/public_html/wp-content/themes/zerif-lite/404.php on line 5
